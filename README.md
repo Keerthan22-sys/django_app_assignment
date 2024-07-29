@@ -63,3 +63,6 @@
 - Access Your Django Application - Open your browser and navigate to https://<api_id>.execute-api.us-west-1.amazonaws.com/dev.
 
 **This should bring up our Django application.**
+
+
+**Video Demonstration link** - https://www.youtube.com/watch?v=G_hhs9FLVE4
