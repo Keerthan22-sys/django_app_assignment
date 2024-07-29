@@ -60,6 +60,6 @@
 
 ***Step 6: Test Your Application***
 - Find our API Gateway Endpoint - "aws apigatewayv2 get-apis"
-- Access Your Django Application - Open your browser and navigate to https://<api_id>.execute-api.us-east-1.amazonaws.com/dev.
+- Access Your Django Application - Open your browser and navigate to https://<api_id>.execute-api.us-west-1.amazonaws.com/dev.
 
 **This should bring up our Django application.**
